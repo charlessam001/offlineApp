@@ -2,7 +2,7 @@
 from kivymd.uix.screen import Screen
 from kivymd.uix.button import MDFlatButton, MDRectangleFlatButton
 from kivymd.uix.label import MDLabel, MDIcon """
-from secondfile import *
+from App2 import *
 
 SecondApp().run()
 
