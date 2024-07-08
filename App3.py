@@ -1,4 +1,4 @@
-# a propos des listesC
+# a propos des listes
 #1 _builder_basic_main
 """
 from kivymd.app import MDApp
